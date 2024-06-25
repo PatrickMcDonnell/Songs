@@ -1,2 +1,2 @@
-# Songs
- Compilation of old folk songs
+# Music
+ A compilation of traditional folk songs
